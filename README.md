@@ -1,6 +1,7 @@
 ## Online Bike Rental - Authenticated Remote Code Execution (RCE)
 ##### Exploit Author: Adeeb Shah (@hyd3sec) & Bobby Cooke (boku)
 ##### Vulnerability Discovery: Adeeb Shah (@hyd3sec)
+![](img/onlineBikeExploit.png)
 ##### MITRE Vulnerability Stats
 + CWE-434: Unrestricted Upload of File with Dangerous Type
 + Overall CVSS Score: 7.2 
